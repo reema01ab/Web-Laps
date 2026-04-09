@@ -40,6 +40,8 @@ ROOT_URLCONF = "book.urls"
 # ✅ Templates location: apps/templates
 TEMPLATE_DIR = os.path.join(BASE_DIR, "apps", "templates")
 
+
+
 TEMPLATE_DIR = os.path.join(BASE_DIR, "apps", "templates")
 
 TEMPLATES = [
